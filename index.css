@@ -1,5 +1,5 @@
 .img {
-    margin-left: 36px;
+    margin-left: 10px;
     margin-top: 54px;
 }
 .menu {
@@ -10,14 +10,15 @@
     line-height: 21px;
     color: #3629B7;
     margin-top: 102px;
-    margin-left: 40px;
+    margin-left: 10px;
 }
 .menu-container {
     display: flex;
+
 }
 .icon {
     margin-top: 25px;
-    margin-left: 42px;
+    margin-left: 10px;
 }
 .dash {
 
@@ -27,7 +28,7 @@
     font-size: 14px;
     line-height: 21px;
     color: #838383;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-top: 24px;
     
 }
@@ -36,14 +37,13 @@ a:hover {
   }
   
 .down {
-    margin-left: 24px;
+    margin-left: px;
     margin-top: 500px;
 }
 .hr {
   border: 1px black solid;
   height: 990px;
   width: 1px;
-  margin-left: 10px;
   color: black;
 
 }
@@ -56,7 +56,7 @@ a:hover {
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
-    margin-left: 40px;
+    margin-left: 20px;
     margin-top: 58px;
     color: #3629B7;
 }
@@ -65,7 +65,7 @@ a:hover {
     height: 58px;
     border-radius: 15px;
    margin-top: 43px;
-   margin-left: 186px;
+   margin-left: 130px;
     background: #FFFFFF;
     border: 1px solid #E7E7E7;
     padding-left: 30px;
@@ -87,7 +87,7 @@ a:hover {
     width: 779px;
     height: 100px;
     margin-top: 39px;
-    margin-left: 40px;
+    margin-left: 20px;
     background: #F7F9FD;
     display: flex;
 }
@@ -126,7 +126,7 @@ a:hover {
     border-radius: 12px;
     background: #EDFFEF;
     margin-top: 24px;
-    margin-left: 40px;
+    margin-left: 20px;
     display: flex;
     
 }
@@ -136,7 +136,7 @@ a:hover {
     border-radius: 12px;
     background: #F4F2FF;
     margin-top: 24px;
-    margin-left: 40px;
+    margin-left: 20px;
     display: flex;
     
 }
@@ -146,7 +146,7 @@ a:hover {
     border-radius: 12px;
     background: #FFF2EC;
     margin-top: 24px;
-    margin-left: 40px;
+    margin-left: 20px;
     display: flex;
     
 }
@@ -198,7 +198,7 @@ a:hover {
     
 }
 .ul {
-    margin-left: 32px;
+    margin-left: 30px;
     margin-top: 48px
 }
 .ul-li {
@@ -207,11 +207,11 @@ a:hover {
 }
 .sub-container-5 {
     margin-top: 32px;
-    margin-left: 66px;
+    margin-left: 30px;
 }
 .sub-container-6 {
     margin-top: 5px;
-    margin-left: 57px;
+    margin-left: 30px;
 }
 .sub-container-7 {
     background: #FFFFFF;
@@ -221,7 +221,7 @@ a:hover {
     width: 779px;
     height: 290px;
     margin-top: 40px;
-    margin-left: 41px;
+    margin-left: 20px;
 }
 .hydration {
     font-family: 'Poppins';
@@ -318,6 +318,10 @@ a:hover {
     
     color: #7B81A6;
     
+}
+.hr-2 {
+    margin: 0;
+    margin-left: 10px;
 }
 .calen {
     font-family: 'Poppins';
